@@ -18,7 +18,7 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>be.objectify</groupId>
     <artifactId>objectify-struts2-tags</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Objectify Struts2 Tags</name>
     <url>http://www.objectfy.be</url>
@@ -229,7 +229,7 @@ limitations under the License.
         <url>https://github.com/schaloner/struts2-iterable-params</url>
         <connection>scm:git:git://github.com:schaloner/struts2-iterable-params.git</connection>
         <developerConnection>scm:git:git@github.com:schaloner/struts2-iterable-params.git</developerConnection>
-        <tag>objectify-struts2-tags-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
